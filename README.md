@@ -28,7 +28,7 @@ The user can click on the "Try Something New" button, and they will be met with 
 ![Screenshot](assets/Brewed-Force.png)
 
 ## Website
-https://takes101.github.io/globe-trotting-and-bar-hopping/
+https://codyconck.github.io/globe-trotting-and-bar-hopping/
 
 ## Contributions
 Crafted by:
